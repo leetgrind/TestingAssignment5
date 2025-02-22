@@ -1,4 +1,4 @@
-# Assignment: Black Box Testing of the Obfuscated "SmartLock" System
+# Assignment: Black Box Testing of the "SmartLock" System
 
 **Objective:**
 
