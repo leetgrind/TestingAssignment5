@@ -10,7 +10,7 @@
 **System Description:**
 
 ### C#
-You are provided with a compiled C# DLL, "SmartLock.dll," containing an obfuscated implementation of a smart lock system. The system provides the following public methods:
+You are provided with a compiled C# DLL, "leetgrind.dll," containing an obfuscated implementation of a smart lock system. The system provides the following public methods:
 
 * `Reset()`: Resets the lock to its initial state.
 * `EnterCode(string code)`: Attempts to unlock the lock with the provided code.
@@ -18,7 +18,7 @@ You are provided with a compiled C# DLL, "SmartLock.dll," containing an obfuscat
 * `GetLockState()`: Returns the current state of the lock.
 
 ### Java
-You are provided with a compiled JDK jar, "smartlock.jar," containing an obfuscated implementation of a smart lock system. The system provides the following public methods:
+You are provided with a compiled JDK jar, "lock.jar," containing an obfuscated implementation of a smart lock system. The system provides the following public methods:
 
 * `reset()`: Resets the lock to its initial state.
 * `enterCode(string code)`: Attempts to unlock the lock with the provided code.
@@ -28,7 +28,7 @@ You are provided with a compiled JDK jar, "smartlock.jar," containing an obfusca
 **Tasks:**
 
 1.  **DLL/JAR Integration:**
-    * Create a test application (in any language that can interact with a DLL) to utilize the "SmartLock.dll.". The DLL is compiled using `DotNet 8.0`
+    * Create a test application (in any language that can interact with a DLL) to utilize the "leetgrind.dll.". The DLL is compiled using `DotNet 8.0`
     * If you are using Java create an application in any language that can interact with JAR. The JAR is compiled using `JDK 21.0.6`
 2.  **State Transition Analysis:**
     * Analyze the behavior of the lock system by interacting with its public methods.
