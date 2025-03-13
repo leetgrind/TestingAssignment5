@@ -1,4 +1,5 @@
 # Assignment: Black Box Testing of the "SmartLock" System and testing it another commit
+This is the payment fix
 
 **Objective:**
 
