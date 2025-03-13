@@ -17,7 +17,7 @@ You are provided with a compiled C# DLL, "leetgrind.dll," containing an obfuscat
 * `Lock()`: Locks the lock.
 * `GetLockState()`: Returns the current state of the lock.
 
-### Java
+### Java 2
 You are provided with a compiled JDK jar, "lock.jar," containing an obfuscated implementation of a smart lock system. The system provides the following public methods:
 
 * `reset()`: Resets the lock to its initial state.
